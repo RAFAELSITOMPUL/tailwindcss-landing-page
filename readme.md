@@ -85,6 +85,7 @@ Project Link: https://github.com/RAFAELSITOMPUL/tailwindcss-landing-page.git
 Lisensi
 Distributed under the MIT License. See LICENSE for more information.
 
+<img width="1920" height="1080" alt="landing page" src="https://github.com/user-attachments/assets/b8a83e3b-fdcb-4874-b9f5-f28d4ceb050e" />
 
 ⭐ Jangan lupa untuk memberikan star jika project ini bermanfaat!
 
