@@ -68,7 +68,7 @@ flare-web-agency/
 
 Demo
 Live Demo
-
+https://tailwindcss-landing-page-gilt.vercel.app/
 
 Kontribusi
 Kontribusi sangat diterima! Silakan fork repository ini dan buat pull request untuk perubahan yang ingin Anda sumbangkan.
