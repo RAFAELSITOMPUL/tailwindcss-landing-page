@@ -60,7 +60,7 @@ flare-web-agency/
 └── README.md
 
 
-![alt text](image.png)
+
 
 
 Demo
@@ -89,3 +89,7 @@ Distributed under the MIT License. See LICENSE for more information.
 ⭐ Jangan lupa untuk memberikan star jika project ini bermanfaat!
 
 File README.md ini sudah lengkap dengan informasi kontak yang Anda berikan dan struktur yang profesional untuk GitHub repository.
+
+
+
+![alt text](<landing page.png>)
